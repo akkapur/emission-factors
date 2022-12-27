@@ -1,0 +1,743 @@
+[
+    {
+        "countryCode": "ca",
+        "province": "nl",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 25
+    },
+    {
+        "countryCode": "ca",
+        "province": "pe",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 25
+    },
+    {
+        "countryCode": "ca",
+        "province": "ns",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 680
+    },
+    {
+        "countryCode": "ca",
+        "province": "nb",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 300
+    },
+    {
+        "countryCode": "ca",
+        "province": "qc",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 1.9
+    },
+    {
+        "countryCode": "ca",
+        "province": "on",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 28
+    },
+    {
+        "countryCode": "ca",
+        "province": "mb",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 1.2
+    },
+    {
+        "countryCode": "ca",
+        "province": "sk",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 620
+    },
+    {
+        "countryCode": "ca",
+        "province": "ab",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 640
+    },
+    {
+        "countryCode": "ca",
+        "province": "bc",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 7.8
+    },
+    {
+        "countryCode": "ca",
+        "province": "yt",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 110
+    },
+    {
+        "countryCode": "ca",
+        "province": "nt",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 180
+    },
+    {
+        "countryCode": "ca",
+        "province": "nu",
+        "resource": "electricity",
+        "baseUnit": "kWh",
+        "measureUnit": "g",
+        "co2e": 800
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "electricUtility",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.18,
+            "n2o": 0.031
+        },
+        "co2e": 2766.738
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "industrial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.006,
+            "n2o": 0.031
+        },
+        "co2e": 2762.388
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "producer",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.006,
+            "n2o": 0.031
+        },
+        "co2e": 2762.388
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "residential",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.026,
+            "n2o": 0.006
+        },
+        "co2e": 2755.438
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "forestry",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2762.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "construction",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2762.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "publicAdministration",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2762.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "commercial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2762.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "lightFuelOil",
+        "sector": "institutional",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2753,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2762.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "electricUtility",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3156,
+            "ch4": 0.034,
+            "n2o": 0.064
+        },
+        "co2e": 3175.922
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "electricUtility",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3156,
+            "ch4": 0.034,
+            "n2o": 0.064
+        },
+        "co2e": 3175.922
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "industrial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3156,
+            "ch4": 0.12,
+            "n2o": 0.064
+        },
+        "co2e": 3178.072
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "producer",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3190,
+            "ch4": 0.12,
+            "n2o": 0.064
+        },
+        "co2e": 3212.072
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "residential",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3190,
+            "ch4": 0.057,
+            "n2o": 0.064
+        },
+        "co2e": 3210.4970000000003
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "forestry",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3190,
+            "ch4": 0.057,
+            "n2o": 0.064
+        },
+        "co2e": 3210.4970000000003
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "construction",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3190,
+            "ch4": 0.057,
+            "n2o": 0.064
+        },
+        "co2e": 3210.4970000000003
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "publicAdministration",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3190,
+            "ch4": 0.057,
+            "n2o": 0.064
+        },
+        "co2e": 3210.4970000000003
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "commercial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3190,
+            "ch4": 0.057,
+            "n2o": 0.064
+        },
+        "co2e": 3210.4970000000003
+    },
+    {
+        "countryCode": "ca",
+        "resource": "heavyFuelOil",
+        "sector": "institutional",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3190,
+            "ch4": 0.057,
+            "n2o": 0.064
+        },
+        "co2e": 3210.4970000000003
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "electricUtility",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.006,
+            "n2o": 0.031
+        },
+        "co2e": 2569.388
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "industrial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.006,
+            "n2o": 0.031
+        },
+        "co2e": 2569.388
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "producer",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.006,
+            "n2o": 0.031
+        },
+        "co2e": 2569.388
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "residential",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.026,
+            "n2o": 0.006
+        },
+        "co2e": 2562.438
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "forestry",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2569.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "construction",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2569.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "publicAdministration",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2569.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "commercial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2569.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "kerosene",
+        "sector": "institutional",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2560,
+            "ch4": 0.026,
+            "n2o": 0.031
+        },
+        "co2e": 2569.888
+    },
+    {
+        "countryCode": "ca",
+        "resource": "diesel",
+        "sector": "refinery",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2681,
+            "ch4": 0.078,
+            "n2o": 0.022
+        },
+        "co2e": 2689.506
+    },
+    {
+        "countryCode": "ca",
+        "resource": "diesel",
+        "sector": "residential",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2681,
+            "ch4": 0.078,
+            "n2o": 0.022
+        },
+        "co2e": 2689.506
+    },
+    {
+        "countryCode": "ca",
+        "resource": "diesel",
+        "sector": "commercial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2681,
+            "ch4": 0.078,
+            "n2o": 0.022
+        },
+        "co2e": 2689.506
+    },
+    {
+        "countryCode": "ca",
+        "resource": "diesel",
+        "sector": "institutional",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2681,
+            "ch4": 0.078,
+            "n2o": 0.022
+        },
+        "co2e": 2689.506
+    },
+    {
+        "countryCode": "ca",
+        "resource": "diesel",
+        "sector": "industrial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2681,
+            "ch4": 0.078,
+            "n2o": 0.022
+        },
+        "co2e": 2689.506
+    },
+    {
+        "countryCode": "ca",
+        "resource": "petroleumCoke",
+        "sector": "refinery",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 3859,
+            "ch4": 0.12,
+            "n2o": 0.0275
+        },
+        "co2e": 3870.195
+    },
+    {
+        "countryCode": "ca",
+        "resource": "motorGasoline",
+        "sector": "residential",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2307,
+            "ch4": 0.1,
+            "n2o": 0.02
+        },
+        "co2e": 2315.46
+    },
+    {
+        "countryCode": "ca",
+        "resource": "motorGasoline",
+        "sector": "commercial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2307,
+            "ch4": 0.1,
+            "n2o": 0.02
+        },
+        "co2e": 2315.46
+    },
+    {
+        "countryCode": "ca",
+        "resource": "motorGasoline",
+        "sector": "institutional",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2307,
+            "ch4": 0.1,
+            "n2o": 0.02
+        },
+        "co2e": 2315.46
+    },
+    {
+        "countryCode": "ca",
+        "resource": "motorGasoline",
+        "sector": "industrial",
+        "baseUnit": "l",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 2307,
+            "ch4": 0.1,
+            "n2o": 0.02
+        },
+        "co2e": 2315.46
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "electricUtility",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.49,
+            "n2o": 0.049
+        },
+        "co2e": 1963.852
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "industrial",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.033
+        },
+        "co2e": 1947.759
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "producer",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 6.4,
+            "n2o": 0.06
+        },
+        "co2e": 2114.88
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "pipelines",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 1.9,
+            "n2o": 0.05
+        },
+        "co2e": 1999.4
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "cement",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.034
+        },
+        "co2e": 1948.057
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "manufacturing",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.033
+        },
+        "co2e": 1947.759
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "residential",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.035
+        },
+        "co2e": 1948.355
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "construction",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.035
+        },
+        "co2e": 1948.355
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "commercial",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.035
+        },
+        "co2e": 1948.355
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "institutional",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.035
+        },
+        "co2e": 1948.355
+    },
+    {
+        "countryCode": "ca",
+        "resource": "naturalGas",
+        "sector": "agriculture",
+        "baseUnit": "m3",
+        "measureUnit": "g",
+        "ghgs": {
+            "co2": 1937,
+            "ch4": 0.037,
+            "n2o": 0.035
+        },
+        "co2e": 1948.355
+    }
+]
